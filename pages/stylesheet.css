@@ -1,0 +1,28 @@
+/*temporary css for development only*/
+.guide {
+    font-size: 12px;
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/*begin styling here*/
+html {
+    margin: 0 10%;
+}
+
+.header {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.navigation {
+    color:orange;
+    list-style-type: none;
+}
+
+.navigation li {
+    color:red;
+    display:inline;
+}
