@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Daniel Monteiro",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }

@@ -1,0 +1,29 @@
+fullstack plan
+
+website needs:
+- a home page, about page, services page, and contacts page
+- looks clean and tidy
+- website is interactive and smooth
+
+- webpage needs to load fast
+- needs a content management system
+
+
+
+front end
+
+Framework: Svelte
+UI: Chakra or framer or the thing that adds 3d animation
+Styling: tailwind css or sass
+
+
+
+
+back end
+
+
+
+firebase
+
+
+create vita app pick svelte and then use gatsby or something and then use the wordpress cms   f   f 
